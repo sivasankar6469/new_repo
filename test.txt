@@ -1,2 +1,3 @@
 i cleared conflict
 second line
+git fetch purpose
